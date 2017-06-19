@@ -1,0 +1,7 @@
+#Mon Jun 19 09:29:27 CST 2017
+base.0=E\:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_09f9e27ac74859dd9e13805fba580f61f381c19d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c08cad122f5b96d855704589392874c13f3cd3b6\\classes.dex
+base.1=E\:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c08cad122f5b96d855704589392874c13f3cd3b6
+file.0=E\:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_09f9e27ac74859dd9e13805fba580f61f381c19d\\classes.dex

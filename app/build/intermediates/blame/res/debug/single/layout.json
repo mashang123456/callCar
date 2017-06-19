@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listfooter.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\listfooter.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_window2.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\pop_window2.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\complaint_item.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\complaint_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\record_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\threestep_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\threestep_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\complant_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\complant_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\setting_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\success_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\success_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\twostep_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\twostep_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\main_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\setting_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\enter_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\enter_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\name_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\name_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\register_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popview.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\popview.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e1b7ef16746daff768e1eb2a05154b7f0ea91db\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pwd_layout.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\pwd_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_item.xml",
+        "source": "E:\\Android\\AndroidStudioProjects\\blackHorse\\callCar\\app\\src\\main\\res\\layout\\history_item.xml"
+    }
+]

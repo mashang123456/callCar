@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09a76e0427627fbaebfab7119b089653a39161d3">
+        <dex dex="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c08cad122f5b96d855704589392874c13f3cd3b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_09f9e27ac74859dd9e13805fba580f61f381c19d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\libs\baidumapapi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="99219e3670fffc0f42da76ea3af03e921e037917">
+        <dex dex="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_67fa3fe0d466ca86b6d497ff2198170a34b8b435\classes.dex" />
+    </item>
+
+</items>
