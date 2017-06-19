@@ -1,19 +1,5 @@
 package com.rd.callcar;
 
-import com.baidu.mapapi.BMapManager;
-import com.baidu.mapapi.GeoPoint;
-import com.baidu.mapapi.LocationListener;
-import com.baidu.mapapi.MapActivity;
-import com.baidu.mapapi.MapController;
-import com.baidu.mapapi.MapView;
-import com.baidu.mapapi.MyLocationOverlay;
-import com.rd.callcar.Util.DialogManager;
-import com.rd.callcar.Util.ExitApplication;
-import com.rd.callcar.Util.UpdateCustomer;
-import com.rd.callcar.adapter.SettingAdapter;
-import com.rd.callcar.data.staticData;
-import com.rd.callcar.json.getJson;
-
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -36,6 +22,20 @@ import android.widget.ListView;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.baidu.mapapi.BMapManager;
+import com.baidu.mapapi.GeoPoint;
+import com.baidu.mapapi.LocationListener;
+import com.baidu.mapapi.MapActivity;
+import com.baidu.mapapi.MapController;
+import com.baidu.mapapi.MapView;
+import com.baidu.mapapi.MyLocationOverlay;
+import com.rd.callcar.Util.DialogManager;
+import com.rd.callcar.Util.ExitApplication;
+import com.rd.callcar.Util.UpdateCustomer;
+import com.rd.callcar.adapter.SettingAdapter;
+import com.rd.callcar.data.staticData;
+import com.rd.callcar.json.getJson;
 
 public class StepOne extends MapActivity {
 

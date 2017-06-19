@@ -34,7 +34,7 @@ public class CallSuccess extends Activity {
 
 		app = (App) this.getApplication();
 
-		// åˆå§‹åŒ–åŠ è½½å¯¹è¯æ¡†
+		// ³õÊ¼»¯¼ÓÔØ¶Ô»°¿ò
 		mpDialog = new ProgressDialog(this);
 		mpDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
 		mpDialog.setTitle(R.string.loading_data);
@@ -95,18 +95,18 @@ public class CallSuccess extends Activity {
 		}).start();
 	}
 
-	// çº¿ç¨‹å¤„ç†
+	// Ïß³Ì´¦Àí
 	private Handler mhandler = new Handler() {
 		@Override
 		public void handleMessage(Message msg) {
 			mpDialog.dismiss();
 			switch (msg.what) {
 			case LOGINSUCCESS_MSG:
-				ShowToast("å–æ¶ˆæ‰“è½¦æˆåŠŸï¼");
+				ShowToast("È¡Ïû´ò³µ³É¹¦£¡");
 				startActivity(new Intent(CallSuccess.this, StepOne.class));
 				break;
 			case LOGINFAIL_MSG:
-				ShowToast("å–æ¶ˆæ‰“è½¦å¤±è´¥ï¼");
+				ShowToast("È¡Ïû´ò³µÊ§°Ü£¡");
 				break;
 			}
 		}

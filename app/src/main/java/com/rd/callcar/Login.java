@@ -1,8 +1,5 @@
 package com.rd.callcar;
 
-import com.rd.callcar.Util.ExitApplication;
-import com.rd.callcar.json.getJson;
-
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -14,6 +11,8 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.rd.callcar.Util.ExitApplication;
 
 public class Login extends Activity {
 
@@ -38,7 +37,7 @@ public class Login extends Activity {
 //			StartMain();
 //		}
 
-		// 初始化加载对话框
+		// 鍒濆鍖栧姞杞藉璇濇
 		mpDialog = new ProgressDialog(this);
 		mpDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
 		mpDialog.setTitle(R.string.loading_data);
@@ -122,7 +121,7 @@ public class Login extends Activity {
 		}).start();
 	}
 
-	// 线程处理
+	// 绾跨▼澶勭悊
 	private Handler mhandler = new Handler() {
 		@Override
 		public void handleMessage(Message msg) {

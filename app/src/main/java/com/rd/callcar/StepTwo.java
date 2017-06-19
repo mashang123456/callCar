@@ -1,13 +1,5 @@
 package com.rd.callcar;
 
-import com.rd.callcar.Util.ExitApplication;
-import com.rd.callcar.adapter.ChooseAdapter;
-import com.rd.callcar.data.staticData;
-import com.rd.callcar.db.SQLiteHelper;
-import com.rd.callcar.entity.HistoryBean;
-import com.rd.callcar.entity.PointInfo;
-import com.rd.callcar.json.getJson;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -32,6 +24,13 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.rd.callcar.Util.ExitApplication;
+import com.rd.callcar.adapter.ChooseAdapter;
+import com.rd.callcar.data.staticData;
+import com.rd.callcar.db.SQLiteHelper;
+import com.rd.callcar.entity.HistoryBean;
+import com.rd.callcar.entity.PointInfo;
 
 public class StepTwo extends Activity {
 

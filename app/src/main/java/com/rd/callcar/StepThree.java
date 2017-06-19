@@ -1,8 +1,23 @@
 package com.rd.callcar;
 
-import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.List;
+import android.app.AlertDialog;
+import android.app.Dialog;
+import android.app.ProgressDialog;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.location.Location;
+import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
+import android.preference.PreferenceManager;
+import android.view.KeyEvent;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.ArrayAdapter;
+import android.widget.Button;
+import android.widget.ListView;
+import android.widget.TextView;
+import android.widget.Toast;
 
 import com.baidu.mapapi.BMapManager;
 import com.baidu.mapapi.GeoPoint;
@@ -30,24 +45,9 @@ import com.rd.callcar.entity.PointInfo;
 import com.rd.callcar.json.getJson;
 import com.rd.callcar.view.MarqueeText;
 
-import android.app.AlertDialog;
-import android.app.Dialog;
-import android.app.ProgressDialog;
-import android.content.DialogInterface;
-import android.content.Intent;
-import android.location.Location;
-import android.os.Bundle;
-import android.os.Handler;
-import android.os.Message;
-import android.preference.PreferenceManager;
-import android.view.KeyEvent;
-import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.ArrayAdapter;
-import android.widget.Button;
-import android.widget.ListView;
-import android.widget.TextView;
-import android.widget.Toast;
+import java.text.DecimalFormat;
+import java.util.ArrayList;
+import java.util.List;
 
 public class StepThree extends MapActivity {
 
@@ -100,8 +100,7 @@ public class StepThree extends MapActivity {
 				(int) (116.404 * 1E6)); // 用给定的经纬度构造一个GeoPoint，单位是微度 (度 * 1E6)
 		mMapController.setCenter(point); // 设置地图中心点
 		// mMapController.setZoom(12); // 设置地图zoom级别
-		//
-		// // 初始化搜索模块，注册事件监听
+		//初始化搜索模块，注册事件监听
 		mSearch = new MKSearch();
 		mSearch.setTransitPolicy(MKSearch.EBUS_TRANSFER_FIRST);
 		mSearch.init(app.mBMapMan, new MKSearchListener() {
@@ -230,13 +229,13 @@ public class StepThree extends MapActivity {
 			}
 		});
 
-		mMapController.setZoom(18); // 设置地图zoom级别
+		mMapController.setZoom(18); //设置地图zoom级别
 
 		// 添加定位图层
 		mLocationOverlay = new MyLocationOverlay(this, mMapView);
 		mMapView.getOverlays().add(mLocationOverlay);
 
-		// 注册定位事件
+		//注册定位事件
 		mLocationListener = new LocationListener() {
 
 			@Override
@@ -543,7 +542,7 @@ public class StepThree extends MapActivity {
 			list.setCacheColorHint(0);
 			dialog = new AlertDialog.Builder(StepThree.this).setTitle("路线")
 					.setPositiveButton("确定", null)
-					// .setNegativeButton("分享到人人",
+					// .setNegativeButton("????????",
 					// new DialogInterface.OnClickListener() {
 					//
 					// @Override
@@ -552,9 +551,9 @@ public class StepThree extends MapActivity {
 					// String text = "";
 					// for (int i = 0; i < step.size(); i++) {
 					// if (i != step.size() - 1)
-					// text = text + step.get(i) + "，";
+					// text = text + step.get(i) + "??";
 					// else
-					// text = text + step.get(i) + "。";
+					// text = text + step.get(i) + "??";
 					// }
 					// }
 					// })
@@ -592,7 +591,7 @@ public class StepThree extends MapActivity {
 	@Override
 	protected void onResume() {
 		App app = (App) this.getApplication();
-		// 注册定位事件，定位后将地图移动到定位点
+		//注册定位事件，定位后将地图移动到定位点
 		app.mBMapMan.getLocationManager().requestLocationUpdates(
 				mLocationListener);
 		mLocationOverlay.enableMyLocation();

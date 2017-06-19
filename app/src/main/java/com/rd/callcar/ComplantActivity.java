@@ -46,12 +46,12 @@ public class ComplantActivity extends Activity {
 
 		app = (App) getApplication();
 
-		// åˆå§‹åŒ–åŠ è½½å¯¹è¯æ¡†
+		// ³õÊ¼»¯¼ÓÔØ¶Ô»°¿ò
 		pro = new ProgressDialog(this);
 		pro.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-		pro.setTitle("æç¤º");
+		pro.setTitle("ÌáÊ¾");
 		pro.setIcon(android.R.drawable.ic_dialog_info);
-		pro.setMessage("æ­£åœ¨æäº¤æŠ•è¯‰ï¼Œè¯·ç¨å€™â€¦â€¦");
+		pro.setMessage("ÕıÔÚÌá½»Í¶Ëß£¬ÇëÉÔºò¡­¡­");
 		pro.setIndeterminate(false);
 		pro.setCancelable(true);
 
@@ -96,14 +96,14 @@ public class ComplantActivity extends Activity {
 
 	private void ShowDD() {
 		if (adapter.getSelect() == null) {
-			app.ShowToast("è¯·é€‰æ‹©ä¸€ä¸ªåŸå› å†è¿›è¡ŒæŠ•è¯‰ï¼");
+			app.ShowToast("ÇëÑ¡ÔñÒ»¸öÔ­ÒòÔÙ½øĞĞÍ¶Ëß£¡");
 			return;
 		}
 
 		final AlertDialog alertDialog = new AlertDialog.Builder(
 				ComplantActivity.this)
 				.setTitle(R.string.Hint)
-				.setMessage("æ‚¨ç¡®å®šè¦è¿›è¡ŒæŠ•è¯‰å—ï¼Ÿè‹¥å‘ç°ç”¨æˆ·è¿›è¡Œè™šå‡æŠ•è¯‰å°†ä½œè¿è§„å¤„ç†ï¼Œè¯·æ…ç”¨æ­¤åŠŸèƒ½ï¼")
+				.setMessage("ÄúÈ·¶¨Òª½øĞĞÍ¶ËßÂğ£¿Èô·¢ÏÖÓÃ»§½øĞĞĞé¼ÙÍ¶Ëß½«×÷Î¥¹æ´¦Àí£¬ÇëÉ÷ÓÃ´Ë¹¦ÄÜ£¡")
 				.setPositiveButton(R.string.sure,
 						new DialogInterface.OnClickListener() {
 							public void onClick(DialogInterface dialog,
@@ -155,10 +155,10 @@ public class ComplantActivity extends Activity {
 			pro.dismiss();
 			switch (msg.what) {
 			case feedkbackSuccess:
-				app.ShowToast("æŠ•è¯‰æˆåŠŸï¼Œæˆ‘ä»¬å°†å°½å¿«å¤„ç†æ‚¨çš„æŠ•è¯‰ï¼");
+				app.ShowToast("Í¶Ëß³É¹¦£¬ÎÒÃÇ½«¾¡¿ì´¦ÀíÄúµÄÍ¶Ëß£¡");
 				break;
 			case fedkbackFail:
-				app.ShowToast("æŠ•è¯‰å¤±è´¥ï¼Œè¯·æ£€æµ‹ç½‘ç»œæˆ–è€…é‡æ–°æäº¤ï¼Œæ„Ÿè°¢æ‚¨çš„ä½¿ç”¨ï¼");
+				app.ShowToast("Í¶ËßÊ§°Ü£¬Çë¼ì²âÍøÂç»òÕßÖØĞÂÌá½»£¬¸ĞĞ»ÄúµÄÊ¹ÓÃ£¡");
 				break;
 			}
 		}

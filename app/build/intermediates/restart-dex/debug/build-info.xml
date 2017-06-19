@@ -5,25 +5,25 @@
     build-mode="COLD"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1497836129298"
+    timestamp="1497839557059"
     token="8185768640820912126"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="616" />
+        duration="984" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="6" />
+        duration="31" />
     <task
         name="verifier"
-        duration="3" />
+        duration="0" />
 
     <artifact
-        location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
         location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\outputs\apk\app-debug.apk"
@@ -31,62 +31,59 @@
 
     <build
         build-mode="FULL"
-        timestamp="1497835721645"
+        timestamp="1497838644075"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
         <artifact
             location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
+            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
-            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1497838937965"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1497836088508"
+        timestamp="1497839557059"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1497836129298"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="E:\Android\AndroidStudioProjects\blackHorse\callCar\app\build\outputs\apk\app-debug.apk"
